@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203748589504",
+    "project_id": "apptowerdefense",
+    "storage_bucket": "apptowerdefense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203748589504:android:36ce38f46e6ef31881d225",
+        "android_client_info": {
+          "package_name": "com.Irzon.APPTowerDefense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203748589504-0b42ph5nekmr1che6dgnkfuvcpsm45mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6T8_1BAK6CQu_NSt6dpGjJBx32idtUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203748589504-0b42ph5nekmr1che6dgnkfuvcpsm45mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

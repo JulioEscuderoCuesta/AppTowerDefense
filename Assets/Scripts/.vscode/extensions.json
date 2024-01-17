@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "unity.unity-debug",
+        "conch.csharp-convert-ts"
+    ]
+}
